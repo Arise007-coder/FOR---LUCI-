@@ -1,0 +1,28 @@
+# Happy Birthday, Luci! 🎂🐧✨
+
+A custom, mobile-first interactive birthday web application created for my birthday twin, **Luci**. Built using HTML5, CSS3, and Vanilla JavaScript with interactive animations, music playback, media lightbox gallery, and a confetti grand finale.
+
+---
+
+## 🌟 Features
+
+- **Interactive Night Sky & Penguin Guide**: Custom CSS/Canvas ambient background with an interactive SVG penguin guide.
+- **Twin Quiz & Adventure**: Playful interactive Q&A section with cute speech bubbles.
+- **Custom Music Player**: Integrated audio player supporting custom songs and recordings with a real-time visualizer canvas.
+- **Memories Gallery**: Responsive photo and video grid with a full-screen Lightbox viewer.
+- **Cinematic Final Surprise**: Unboxing animation with a custom birthday letter and canvas confetti explosion.
+- **Mobile-First & Offline Ready**: Optimized for Android Chrome and iOS Safari without external frameworks or backend dependencies.
+
+---
+
+## 📁 File Structure
+
+```text
+birthday-website/
+│
+├── index.html          # Main single-page application (All HTML/CSS/JS)
+├── README.md           # Project documentation and setup guide
+└── assets/             # Optional custom media files
+    ├── audio/          # Put MP3 song files here (song01.mp3, etc.)
+    ├── images/         # Put photos here (photo01.jpg, etc.)
+    └── videos/         # Put videos here (video01.mp4, etc.)
